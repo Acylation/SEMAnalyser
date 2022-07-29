@@ -1,7 +1,7 @@
 # SEMAnalyser
 Circle recon for sem
-##开发Memo
-###Features
+## 开发Memo
+### Features
 - 导入 √
 - 前处理框架 √
 - 前处理通用参(Stage1: GaussianBlur+Canny; Stage2: SurfaceBLur+Sobel)
@@ -10,7 +10,7 @@ Circle recon for sem
 - 手动删除
 - 导出数据
 - 保存
-###优化
+### 优化
 - 导入过程后缀筛选
 - 前处理选项化、允许调参
 - 手动调整
