@@ -26,3 +26,4 @@ Circle recon for sem
 - Back
 - Prettier
 - 读写配置文件/Qt配置选项
+- License在最后加
